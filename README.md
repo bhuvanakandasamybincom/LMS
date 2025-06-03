@@ -1,5 +1,11 @@
 # LMS Library Management System
 
+# Migration scripts
+	Create migration
+	>>dotnet ef  migrations add ApplicationDatabase  (--where ApplicationDatabase is custom migration name)
+	To execute the migration. It will create a DB and table(s)  on the SQL server
+	>>dotnet ef database update
+ 
 # Nuget packages 
     dotnet add package Microsoft.EntityFrameworkCore.SqlServer
     dotnet add package Microsoft.EntityFrameworkCore.Tools
