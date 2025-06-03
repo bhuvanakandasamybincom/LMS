@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF0D0AB-EAF2-4BDD-BC0D-BBF6D8DC7D5B}|..\\LibraryManagement.Test\\LibraryManagement.Test.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement.test\\librarymanagement.test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF0D0AB-EAF2-4BDD-BC0D-BBF6D8DC7D5B}|..\\LibraryManagement.Test\\LibraryManagement.Test.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement.test\\librarymanagement.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF0D0AB-EAF2-4BDD-BC0D-BBF6D8DC7D5B}|..\\LibraryManagement.Test\\LibraryManagement.Test.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:data\\bookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:interface\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\interface\\ibookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:interface\\ibookdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:service\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\data\\authordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:data\\authordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\interface\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:interface\\iauthorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\interface\\iauthordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:interface\\iauthordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\newbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\newbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\dbcontexts\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:dbcontexts\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\newauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\newauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\model\\registrationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:model\\registrationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\migrations\\20250602004513_applicationdatabase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:migrations\\20250602004513_applicationdatabase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|e:\\bhuvana\\bincom\\projectwork\\contactsession\\librarymanagement\\librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B364D77E-9E40-49EE-96DC-D590B07F1930}|LibraryManagement.csproj|solutionrelative:librarymanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryManagement.Test",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "RelativeToolTip": "..\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T00:40:42.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryManagement.Test",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "RelativeToolTip": "..\\LibraryManagement.Test\\LibraryManagement.Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T00:40:44.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Test\\UnitTest1.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Test\\UnitTest1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:13:20.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Service\\BookService.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Service\\BookService.cs",
+              "RelativeToolTip": "Service\\BookService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:32:57.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookData.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Data\\BookData.cs",
+              "RelativeDocumentMoniker": "Data\\BookData.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Data\\BookData.cs",
+              "RelativeToolTip": "Data\\BookData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:14:41.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:29:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:40:12.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:59:17.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwBoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:12:00.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBookData.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IBookData.cs",
+              "RelativeDocumentMoniker": "Interface\\IBookData.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IBookData.cs",
+              "RelativeToolTip": "Interface\\IBookData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:45:58.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IBookService.cs",
+              "RelativeDocumentMoniker": "Interface\\IBookService.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IBookService.cs",
+              "RelativeToolTip": "Interface\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:22:19.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Service\\AuthorService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthorService.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Service\\AuthorService.cs",
+              "RelativeToolTip": "Service\\AuthorService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:33:08.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:30:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Model\\Book.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\Book.cs",
+              "RelativeToolTip": "Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:02:40.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Model\\ApplicationUser.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\ApplicationUser.cs",
+              "RelativeToolTip": "Model\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:56:18.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T00:52:57.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\AuthService.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Service\\AuthService.cs",
+              "RelativeToolTip": "Service\\AuthService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIAzwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:44:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthorData.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Data\\AuthorData.cs",
+              "RelativeDocumentMoniker": "Data\\AuthorData.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Data\\AuthorData.cs",
+              "RelativeToolTip": "Data\\AuthorData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:14:27.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAuthorService.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IAuthorService.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthorService.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IAuthorService.cs",
+              "RelativeToolTip": "Interface\\IAuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:52:29.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthorData.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IAuthorData.cs",
+              "RelativeDocumentMoniker": "Interface\\IAuthorData.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Interface\\IAuthorData.cs",
+              "RelativeToolTip": "Interface\\IAuthorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:45:45.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Author.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\Author.cs",
+              "RelativeDocumentMoniker": "Model\\Author.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\Author.cs",
+              "RelativeToolTip": "Model\\Author.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:12:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewBook.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\NewBook.cs",
+              "RelativeDocumentMoniker": "Model\\NewBook.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\NewBook.cs",
+              "RelativeToolTip": "Model\\NewBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T18:23:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T20:28:22.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T17:48:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\DbContexts\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "DbContexts\\LibraryDbContext.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\DbContexts\\LibraryDbContext.cs",
+              "RelativeToolTip": "DbContexts\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:46:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewAuthor.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\NewAuthor.cs",
+              "RelativeDocumentMoniker": "Model\\NewAuthor.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\NewAuthor.cs",
+              "RelativeToolTip": "Model\\NewAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T17:34:19.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "Model\\Login.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\Login.cs",
+              "RelativeToolTip": "Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:53:52.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Model\\UserRoles.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\UserRoles.cs",
+              "RelativeToolTip": "Model\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:53:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250602004513_ApplicationDatabase.Designer.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Migrations\\20250602004513_ApplicationDatabase.Designer.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250602004513_ApplicationDatabase.Designer.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Migrations\\20250602004513_ApplicationDatabase.Designer.cs",
+              "RelativeToolTip": "Migrations\\20250602004513_ApplicationDatabase.Designer.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAALEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T01:32:27.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegistrationUser.cs",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\RegistrationUser.cs",
+              "RelativeDocumentMoniker": "Model\\RegistrationUser.cs",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\Model\\RegistrationUser.cs",
+              "RelativeToolTip": "Model\\RegistrationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:49:35.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LibraryManagement",
+              "DocumentMoniker": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeDocumentMoniker": "LibraryManagement.csproj",
+              "ToolTip": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\LibraryManagement.csproj",
+              "RelativeToolTip": "LibraryManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T00:13:30.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

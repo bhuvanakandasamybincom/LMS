@@ -1,0 +1,7 @@
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.AssemblyReference.cache
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cs
+E:\Bhuvana\Bincom\ProjectWork\ContactSession\LibraryManagement\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache
