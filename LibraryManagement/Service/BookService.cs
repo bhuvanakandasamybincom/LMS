@@ -1,6 +1,8 @@
 ﻿using LibraryManagement.Data;
 using LibraryManagement.Interface;
 using LibraryManagement.Model;
+using System.Net.Http;
+using System.Text.Json;
 
 namespace LibraryManagement.Service
 {
@@ -22,11 +24,32 @@ namespace LibraryManagement.Service
         {
             return await _bookData.GetBook(id);
         }
+        public async Task<Book> GetBookdetailsService(int id)
+        {
+            string url = $"https://localhost:44362/api/v1/Book/getbookdetails?id={id}";
+            HttpClient _httpClient = new HttpClient();
+            var result = await _httpClient.GetAsync(url);
+
+            result.EnsureSuccessStatusCode();
+            var ContentString= result.Content.ReadAsStringAsync().Result;
+            var options = new JsonSerializerOptions
+            {
+                PropertyNameCaseInsensitive = true,
+            };
+
+            var results = JsonSerializer.Deserialize<Book>(ContentString, options);
+            return results;
+        }
         public async Task<List<Book>> GetBookByAuthorService(string Author)
         {
             return await _bookData.GetBookByAuthor(Author);
         }
+        public List<Book> GetMostBorrowedBooksService()
+        {
+            return _bookData.GetMostBorrowedBooks();
+        }
         
+
         public string UpdateBookService(Book book)
         {
             _bookData.UpdateBook(book);

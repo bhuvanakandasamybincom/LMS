@@ -7,7 +7,9 @@ namespace LibraryManagement.Interface
         public int AddBookService(NewBook book);
         public Task<Book> GetBookService(int id);
         public Task<List<Book>> GetBookByAuthorService(string Author);
+        public Task<Book> GetBookdetailsService(int id);
         public string UpdateBookService(Book book);
         public string DeleteBookService(Book book);
+        public List<Book> GetMostBorrowedBooksService();
     }
 }

@@ -9,5 +9,6 @@ namespace LibraryManagement.Interface
         public int AddBook(NewBook book);
         public void UpdateBook(Book book);
         public void DeleteBook(Book book);
+        public List<Book> GetMostBorrowedBooks();
     }
 }

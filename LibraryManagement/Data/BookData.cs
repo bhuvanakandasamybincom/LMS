@@ -94,5 +94,21 @@ namespace LibraryManagement.Data
                 }
             }
         }
+        public List<Book> GetMostBorrowedBooks()
+        {
+
+            using (var dbContext = _dbContext)
+            {
+
+                List<Book> books = new List<Book>();
+                books = dbContext.Books.OrderByDescending(b => b.CopiesAvailable).Take(3).ToList();
+                return books;
+            }
+        }
+        
+
+
+
+
     }
 }

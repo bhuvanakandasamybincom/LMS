@@ -10,9 +10,6 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
-// Add services to the container.
 builder.Services.AddControllers();
 
 // Add services to the container.
@@ -22,17 +19,14 @@ builder.Services.AddTransient<IAuthService, AuthService>();
 builder.Services.AddScoped<IBookService, BookService>();
 builder.Services.AddScoped<IBookData, BookData>();
 
-// Adding EF Core with SQL Server
-//builder.Services.AddDbContext<ApplicationDbContext>(options =>
-//options.UseSqlServer(builder.Configuration.GetConnectionString("MSSQLServerDBConnection"))
-//    .EnableSensitiveDataLogging());
-
+// Adding EF Core with SQL Server connection string
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("MSSQLServerDBConnection")).EnableSensitiveDataLogging();
     //options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
 });
 
+//User role to EF Core
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
 {
 }).AddEntityFrameworkStores<ApplicationDbContext>();

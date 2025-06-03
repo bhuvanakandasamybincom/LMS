@@ -54,6 +54,24 @@ namespace LibraryManagement.Controllers
                 return BadRequest();
         }
         /// <summary>
+        /// Get book details from external API using Async/await
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("GetBookDetails")]
+        [Authorize(Roles = "Admin,User")]
+        public async Task<IActionResult> GetBookdetails(int id)
+        {
+            var result = await _bookService.GetBookdetailsService(id);
+            if (result != null)
+            {
+                return Ok(result);
+            }
+            else
+                return BadRequest();
+        }
+        /// <summary>
         /// Add Book
         /// </summary>
         /// <param name="book"></param>
@@ -100,6 +118,23 @@ namespace LibraryManagement.Controllers
         public async Task<IActionResult> DeleteBook(Book book)
         {
             var result = _bookService.DeleteBookService(book);
+            if (result != null)
+            {
+                return Ok(result);
+            }
+            else
+                return BadRequest();
+        }
+        /// <summary>
+        /// Get Most Borrowed Books
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        [Route("MostBorrowedBooks")]
+        [Authorize(Roles = "Admin")]
+        public async Task<IActionResult> GetMostBorrowedBooks()
+        {
+            var result = _bookService.GetMostBorrowedBooksService();
             if (result != null)
             {
                 return Ok(result);
