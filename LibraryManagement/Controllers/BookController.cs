@@ -132,9 +132,9 @@ namespace LibraryManagement.Controllers
         [HttpGet]
         [Route("MostBorrowedBooks")]
         [Authorize(Roles = "Admin")]
-        public async Task<IActionResult> GetMostBorrowedBooks()
+        public async Task<ActionResult<List<Book>>> GetMostBorrowedBooks()
         {
-            var result = _bookService.GetMostBorrowedBooksService();
+            var result =await _bookService.GetMostBorrowedBooksService();
             if (result != null)
             {
                 return Ok(result);

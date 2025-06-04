@@ -44,9 +44,9 @@ namespace LibraryManagement.Service
         {
             return await _bookData.GetBookByAuthor(Author);
         }
-        public List<Book> GetMostBorrowedBooksService()
+        public async Task<List<Book>> GetMostBorrowedBooksService()
         {
-            return _bookData.GetMostBorrowedBooks();
+            return await _bookData.GetMostBorrowedBooks();
         }
         
 

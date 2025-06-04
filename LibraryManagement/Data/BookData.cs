@@ -94,7 +94,7 @@ namespace LibraryManagement.Data
                 }
             }
         }
-        public List<Book> GetMostBorrowedBooks()
+        public async Task<List<Book>> GetMostBorrowedBooks()
         {
 
             using (var dbContext = _dbContext)

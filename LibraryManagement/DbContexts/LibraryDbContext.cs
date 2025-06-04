@@ -6,7 +6,9 @@ namespace LibraryManagement.DbContexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string conn = "Server=DINESHKUMAR\\DEVSERVER;Database=LMS;User Id=sa;Password=Password#1;TrustServerCertificate=True;";
+            DataConfig dataConfig = new DataConfig();
+            
+            string conn = dataConfig.ConnectionString;
             optionsBuilder.UseSqlServer(conn);
 
         }
