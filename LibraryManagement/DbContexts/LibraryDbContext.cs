@@ -2,15 +2,15 @@
 
 namespace LibraryManagement.DbContexts
 {
-    public class LibraryDbContext : DbContext
-    {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            DataConfig dataConfig = new DataConfig();
+    //public class LibraryDbContext : DbContext
+    //{
+    //    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    //    {
+    //        DataConfig dataConfig = new DataConfig();
             
-            string conn = dataConfig.ConnectionString;
-            optionsBuilder.UseSqlServer(conn);
+    //        string conn = dataConfig.ConnectionString;
+    //        optionsBuilder.UseSqlServer(conn);
 
-        }
-    }
+    //    }
+    //}
 }

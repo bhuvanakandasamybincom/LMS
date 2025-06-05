@@ -13,8 +13,7 @@ using Microsoft.Identity.Web;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-    .AddMicrosoftIdentityWebApi(builder.Configuration.GetSection("AzureAd"));
+
 builder.Services.AddControllers();
 
 // Add services to the container.
@@ -44,6 +43,8 @@ builder.Services.AddSwaggerGen();
 var jwtSettings = builder.Configuration.GetSection("JwtSettings");
 var SecretKey = Encoding.UTF8.GetBytes(jwtSettings["SecretKey"]);
 
+//builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+//    .AddMicrosoftIdentityWebApi(builder.Configuration.GetSection("AzureAd"));
 // Adding Authentication and Authorization
 builder.Services.AddAuthentication(options =>
 {
@@ -62,7 +63,7 @@ builder.Services.AddAuthentication(options =>
         ValidIssuer = jwtSettings["Issuer"],
         ValidAudience = jwtSettings["Audience"],
         IssuerSigningKey = new SymmetricSecurityKey(SecretKey),
-        //ClockSkew = TimeSpan.Zero
+        ClockSkew = TimeSpan.Zero
     };
 });
 //Policy based role checks
