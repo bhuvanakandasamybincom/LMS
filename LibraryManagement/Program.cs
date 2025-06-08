@@ -85,7 +85,15 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
-
+if (!app.Environment.IsDevelopment())
+{
+    app.UseSwaggerUI(
+    c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Demo web API");
+        c.RoutePrefix = string.Empty;
+    });
+}
 app.UseHttpsRedirection();
 
 //Routing
