@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ESb3sgiXqVCZTNvBl06ISGQIyEStotDcVXYrfsO6Ps0=",
+  "Hash": "qiXMpm61p9lvrK0rgcj0RFAX0iUMD5Mp5J6xOwrGG4E=",
   "Source": "LibraryManagement",
   "BasePath": "_content/LibraryManagement",
   "Mode": "Default",
@@ -1332,10 +1332,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.gz",
       "AssetKind": "All",
@@ -1353,10 +1353,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\14ipv7q33s-bqjiyaj88i.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\14ipv7q33s-bqjiyaj88i.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.gz",
       "AssetKind": "All",
@@ -1374,10 +1374,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.gz",
       "AssetKind": "All",
@@ -1395,10 +1395,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js.gz",
       "AssetKind": "All",
@@ -1416,10 +1416,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.gz",
       "AssetKind": "All",
@@ -1437,10 +1437,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\47012z8l2l-pj5nd1wqec.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\47012z8l2l-pj5nd1wqec.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map.gz",
       "AssetKind": "All",
@@ -1458,10 +1458,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.gz",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\7o8oyvng68-tdbxkamptv.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\7o8oyvng68-tdbxkamptv.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.gz",
       "AssetKind": "All",
@@ -1500,10 +1500,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map.gz",
       "AssetKind": "All",
@@ -1521,10 +1521,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8xykfy6qmd-r4e9w2rdcm.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8xykfy6qmd-r4e9w2rdcm.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map.gz",
       "AssetKind": "All",
@@ -1542,10 +1542,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9glsckmvxo-aexeepp0ev.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9glsckmvxo-aexeepp0ev.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map.gz",
       "AssetKind": "All",
@@ -1563,10 +1563,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9muusbdg0a-x0q3zqp4vz.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9muusbdg0a-x0q3zqp4vz.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md.gz",
       "AssetKind": "All",
@@ -1584,10 +1584,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\a3ygkwa5zy-2z0ns9nrw6.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\a3ygkwa5zy-2z0ns9nrw6.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.slim.js.gz",
       "AssetKind": "All",
@@ -1605,10 +1605,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\b9lhb08218-ttgo8qnofa.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\b9lhb08218-ttgo8qnofa.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map.gz",
       "AssetKind": "All",
@@ -1626,10 +1626,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bh4v3mdph9-v0zj4ognzu.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bh4v3mdph9-v0zj4ognzu.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
       "AssetKind": "All",
@@ -1647,10 +1647,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map.gz",
       "AssetKind": "All",
@@ -1668,10 +1668,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\cynp17w084-c2oey78nd0.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\cynp17w084-c2oey78nd0.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map.gz",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\d5z9sfpxbi-rzd6atqjts.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\d5z9sfpxbi-rzd6atqjts.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.gz",
       "AssetKind": "All",
@@ -1710,10 +1710,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\eb27mqwgz2-erw9l3u2r3.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\eb27mqwgz2-erw9l3u2r3.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.gz",
       "AssetKind": "All",
@@ -1731,10 +1731,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\edcrak57d7-k8d9w2qqmf.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\edcrak57d7-k8d9w2qqmf.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.gz",
       "AssetKind": "All",
@@ -1752,10 +1752,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\h9vwtoirpy-j5mq2jizvt.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\h9vwtoirpy-j5mq2jizvt.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map.gz",
       "AssetKind": "All",
@@ -1773,10 +1773,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\hh8ihyobdx-d7shbmvgxk.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\hh8ihyobdx-d7shbmvgxk.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.gz",
       "AssetKind": "All",
@@ -1794,10 +1794,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\higufxz8op-vr1egmr9el.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\higufxz8op-vr1egmr9el.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.gz",
       "AssetKind": "All",
@@ -1815,10 +1815,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map.gz",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map.gz",
       "AssetKind": "All",
@@ -1857,10 +1857,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\iznc766avz-nvvlpmu67g.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\iznc766avz-nvvlpmu67g.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map.gz",
       "AssetKind": "All",
@@ -1878,10 +1878,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j3hwsq15kh-47otxtyo56.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j3hwsq15kh-47otxtyo56.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js.gz",
       "AssetKind": "All",
@@ -1899,10 +1899,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j9swiz3yzq-90yqlj465b.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j9swiz3yzq-90yqlj465b.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico.gz",
       "AssetKind": "All",
@@ -1920,10 +1920,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.gz",
       "AssetKind": "All",
@@ -1941,10 +1941,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\l186vlgaag-37tfw0ft22.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\l186vlgaag-37tfw0ft22.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
       "AssetKind": "All",
@@ -1962,10 +1962,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ldxy2n3w6q-356vix0kms.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ldxy2n3w6q-356vix0kms.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt.gz",
       "AssetKind": "All",
@@ -1983,10 +1983,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\lr5hmrr0j7-493y06b0oq.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\lr5hmrr0j7-493y06b0oq.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.gz",
       "AssetKind": "All",
@@ -2004,10 +2004,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nezrqnk58p-muycvpuwrr.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nezrqnk58p-muycvpuwrr.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.js.gz",
       "AssetKind": "All",
@@ -2025,10 +2025,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nlrl0f3xs3-jd9uben2k1.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nlrl0f3xs3-jd9uben2k1.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map.gz",
       "AssetKind": "All",
@@ -2046,10 +2046,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ns4583i71s-s35ty4nyc5.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ns4583i71s-s35ty4nyc5.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.gz",
       "AssetKind": "All",
@@ -2067,10 +2067,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\o5k23vqhrk-06098lyss8.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\o5k23vqhrk-06098lyss8.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.gz",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ofa40bqe71-b9sayid5wm.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ofa40bqe71-b9sayid5wm.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css.gz",
       "AssetKind": "All",
@@ -2109,10 +2109,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\oxk5o6czdw-fvhpjtyr6v.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\oxk5o6czdw-fvhpjtyr6v.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map.gz",
       "AssetKind": "All",
@@ -2130,10 +2130,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map.gz",
       "AssetKind": "All",
@@ -2151,10 +2151,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\q3naettu8c-4v8eqarkd7.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\q3naettu8c-4v8eqarkd7.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js.gz",
       "AssetKind": "All",
@@ -2172,10 +2172,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\qfr28sqcy1-ft3s53vfgj.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\qfr28sqcy1-ft3s53vfgj.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map.gz",
       "AssetKind": "All",
@@ -2214,10 +2214,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rsc7qacj1u-hrwsygsryq.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rsc7qacj1u-hrwsygsryq.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz",
       "AssetKind": "All",
@@ -2235,10 +2235,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\s3tglgz8hr-kbrnm935zg.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\s3tglgz8hr-kbrnm935zg.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map.gz",
       "AssetKind": "All",
@@ -2256,10 +2256,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\sf8kf2lula-cosvhxvwiu.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\sf8kf2lula-cosvhxvwiu.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map.gz",
       "AssetKind": "All",
@@ -2277,10 +2277,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t0qo7o574p-o1o13a6vjx.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t0qo7o574p-o1o13a6vjx.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js.gz",
       "AssetKind": "All",
@@ -2298,10 +2298,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t6e3b82hrf-mrlpezrjn3.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t6e3b82hrf-mrlpezrjn3.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js.gz",
       "AssetKind": "All",
@@ -2319,10 +2319,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tg53r17ghy-dxx9fxp4il.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tg53r17ghy-dxx9fxp4il.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.gz",
       "AssetKind": "All",
@@ -2340,10 +2340,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tpsq5dibur-0i3buxo5is.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tpsq5dibur-0i3buxo5is.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js.gz",
       "AssetKind": "All",
@@ -2361,10 +2361,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\u8428c4e9i-ee0r1s7dh0.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\u8428c4e9i-ee0r1s7dh0.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map.gz",
       "AssetKind": "All",
@@ -2382,10 +2382,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\uocis9wxbx-lzl9nlhx6b.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\uocis9wxbx-lzl9nlhx6b.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js.gz",
       "AssetKind": "All",
@@ -2403,10 +2403,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\v0zgfp0y55-87fc7y1x7t.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\v0zgfp0y55-87fc7y1x7t.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.map.gz",
       "AssetKind": "All",
@@ -2424,10 +2424,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js.gz",
       "AssetKind": "All",
@@ -2445,10 +2445,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vsrbd71spn-lcd1t2u6c8.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vsrbd71spn-lcd1t2u6c8.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.gz",
       "AssetKind": "All",
@@ -2466,10 +2466,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vw9sls9bhj-jj8uyg4cgr.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vw9sls9bhj-jj8uyg4cgr.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.gz",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map.gz",
       "AssetKind": "All",
@@ -2508,10 +2508,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\yfc7ypekbg-mlv21k5csn.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\yfc7ypekbg-mlv21k5csn.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt.gz",
       "AssetKind": "All",
@@ -2529,10 +2529,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ym8tkpcl2i-y7v9cxd14o.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ym8tkpcl2i-y7v9cxd14o.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map.gz",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ypthv7q62w-83jwlth58m.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ypthv7q62w-83jwlth58m.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js.gz",
       "AssetKind": "All",
@@ -2571,10 +2571,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\z408qb6q7a-pk9g2wxc8p.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\z408qb6q7a-pk9g2wxc8p.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz",
       "AssetKind": "All",
@@ -2592,10 +2592,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zap00c0tb5-63fj8s7r0e.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zap00c0tb5-63fj8s7r0e.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.gz",
       "AssetKind": "All",
@@ -2613,10 +2613,10 @@
       "OriginalItemSpec": "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\9.0.5\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
+      "Identity": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.gz",
       "AssetKind": "All",
@@ -2674,7 +2674,7 @@
     },
     {
       "Route": "Identity/css/site.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ofa40bqe71-b9sayid5wm.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ofa40bqe71-b9sayid5wm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2729,7 +2729,7 @@
     },
     {
       "Route": "Identity/css/site.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ofa40bqe71-b9sayid5wm.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ofa40bqe71-b9sayid5wm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2811,7 +2811,7 @@
     },
     {
       "Route": "Identity/favicon.ico",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j9swiz3yzq-90yqlj465b.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j9swiz3yzq-90yqlj465b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2866,7 +2866,7 @@
     },
     {
       "Route": "Identity/favicon.ico.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j9swiz3yzq-90yqlj465b.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j9swiz3yzq-90yqlj465b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2948,7 +2948,7 @@
     },
     {
       "Route": "Identity/js/site.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3003,7 +3003,7 @@
     },
     {
       "Route": "Identity/js/site.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vltxs1u3vm-xtxxf3hu2r.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3085,7 +3085,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ns4583i71s-s35ty4nyc5.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ns4583i71s-s35ty4nyc5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3140,7 +3140,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ns4583i71s-s35ty4nyc5.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ns4583i71s-s35ty4nyc5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3222,7 +3222,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\47012z8l2l-pj5nd1wqec.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\47012z8l2l-pj5nd1wqec.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3277,7 +3277,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\47012z8l2l-pj5nd1wqec.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\47012z8l2l-pj5nd1wqec.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3359,7 +3359,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3414,7 +3414,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\4vzefxwp2m-46ein0sx1k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3496,7 +3496,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bh4v3mdph9-v0zj4ognzu.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bh4v3mdph9-v0zj4ognzu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3551,7 +3551,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bh4v3mdph9-v0zj4ognzu.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bh4v3mdph9-v0zj4ognzu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3633,7 +3633,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\l186vlgaag-37tfw0ft22.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\l186vlgaag-37tfw0ft22.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3688,7 +3688,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\l186vlgaag-37tfw0ft22.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\l186vlgaag-37tfw0ft22.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3770,7 +3770,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rsc7qacj1u-hrwsygsryq.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rsc7qacj1u-hrwsygsryq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3825,7 +3825,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rsc7qacj1u-hrwsygsryq.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rsc7qacj1u-hrwsygsryq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3907,7 +3907,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\z408qb6q7a-pk9g2wxc8p.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\z408qb6q7a-pk9g2wxc8p.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3962,7 +3962,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\z408qb6q7a-pk9g2wxc8p.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\z408qb6q7a-pk9g2wxc8p.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4044,7 +4044,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\qfr28sqcy1-ft3s53vfgj.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\qfr28sqcy1-ft3s53vfgj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4099,7 +4099,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\qfr28sqcy1-ft3s53vfgj.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\qfr28sqcy1-ft3s53vfgj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4181,7 +4181,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\14ipv7q33s-bqjiyaj88i.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\14ipv7q33s-bqjiyaj88i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4236,7 +4236,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\14ipv7q33s-bqjiyaj88i.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\14ipv7q33s-bqjiyaj88i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4318,7 +4318,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4373,7 +4373,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\rh65p086id-c2jlpeoesf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4455,7 +4455,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\eb27mqwgz2-erw9l3u2r3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\eb27mqwgz2-erw9l3u2r3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4510,7 +4510,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\eb27mqwgz2-erw9l3u2r3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\eb27mqwgz2-erw9l3u2r3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4592,7 +4592,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9glsckmvxo-aexeepp0ev.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9glsckmvxo-aexeepp0ev.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4647,7 +4647,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9glsckmvxo-aexeepp0ev.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9glsckmvxo-aexeepp0ev.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4729,7 +4729,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\hh8ihyobdx-d7shbmvgxk.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\hh8ihyobdx-d7shbmvgxk.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4784,7 +4784,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\hh8ihyobdx-d7shbmvgxk.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\hh8ihyobdx-d7shbmvgxk.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4866,7 +4866,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -4921,7 +4921,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\bww8ud00yd-ausgxo2sd3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5003,7 +5003,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\edcrak57d7-k8d9w2qqmf.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\edcrak57d7-k8d9w2qqmf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5058,7 +5058,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\edcrak57d7-k8d9w2qqmf.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\edcrak57d7-k8d9w2qqmf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5140,7 +5140,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\sf8kf2lula-cosvhxvwiu.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\sf8kf2lula-cosvhxvwiu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5195,7 +5195,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\sf8kf2lula-cosvhxvwiu.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\sf8kf2lula-cosvhxvwiu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5277,7 +5277,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5332,7 +5332,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\3tzsqhslk9-ub07r2b239.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5414,7 +5414,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\oxk5o6czdw-fvhpjtyr6v.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\oxk5o6czdw-fvhpjtyr6v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5469,7 +5469,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\oxk5o6czdw-fvhpjtyr6v.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\oxk5o6czdw-fvhpjtyr6v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5551,7 +5551,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5606,7 +5606,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\k8b25g0zwc-b7pk76d08c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5688,7 +5688,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5743,7 +5743,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8axix7wldr-fsbi9cje9m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5825,7 +5825,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\d5z9sfpxbi-rzd6atqjts.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\d5z9sfpxbi-rzd6atqjts.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5880,7 +5880,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\d5z9sfpxbi-rzd6atqjts.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\d5z9sfpxbi-rzd6atqjts.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5962,7 +5962,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\u8428c4e9i-ee0r1s7dh0.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\u8428c4e9i-ee0r1s7dh0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6017,7 +6017,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\u8428c4e9i-ee0r1s7dh0.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\u8428c4e9i-ee0r1s7dh0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6099,7 +6099,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tg53r17ghy-dxx9fxp4il.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tg53r17ghy-dxx9fxp4il.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6154,7 +6154,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tg53r17ghy-dxx9fxp4il.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tg53r17ghy-dxx9fxp4il.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6236,7 +6236,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nlrl0f3xs3-jd9uben2k1.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nlrl0f3xs3-jd9uben2k1.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6291,7 +6291,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nlrl0f3xs3-jd9uben2k1.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nlrl0f3xs3-jd9uben2k1.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6373,7 +6373,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6428,7 +6428,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\1fc4q00scq-khv3u5hwcm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6510,7 +6510,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8xykfy6qmd-r4e9w2rdcm.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8xykfy6qmd-r4e9w2rdcm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6565,7 +6565,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8xykfy6qmd-r4e9w2rdcm.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\8xykfy6qmd-r4e9w2rdcm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6647,7 +6647,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vsrbd71spn-lcd1t2u6c8.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vsrbd71spn-lcd1t2u6c8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6702,7 +6702,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vsrbd71spn-lcd1t2u6c8.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vsrbd71spn-lcd1t2u6c8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6784,7 +6784,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\cynp17w084-c2oey78nd0.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\cynp17w084-c2oey78nd0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6839,7 +6839,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\cynp17w084-c2oey78nd0.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\cynp17w084-c2oey78nd0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6921,7 +6921,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\7o8oyvng68-tdbxkamptv.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\7o8oyvng68-tdbxkamptv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -6976,7 +6976,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\7o8oyvng68-tdbxkamptv.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\7o8oyvng68-tdbxkamptv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7058,7 +7058,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\h9vwtoirpy-j5mq2jizvt.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\h9vwtoirpy-j5mq2jizvt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7113,7 +7113,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\h9vwtoirpy-j5mq2jizvt.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\h9vwtoirpy-j5mq2jizvt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7195,7 +7195,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\o5k23vqhrk-06098lyss8.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\o5k23vqhrk-06098lyss8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7250,7 +7250,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\o5k23vqhrk-06098lyss8.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\o5k23vqhrk-06098lyss8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7332,7 +7332,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\iznc766avz-nvvlpmu67g.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\iznc766avz-nvvlpmu67g.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7387,7 +7387,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\iznc766avz-nvvlpmu67g.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\iznc766avz-nvvlpmu67g.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7469,7 +7469,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7524,7 +7524,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\0k1i85ntyh-6cfz1n2cew.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7606,7 +7606,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7661,7 +7661,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.js.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\xa379ftczi-6pdc2jztkx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7743,7 +7743,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\lr5hmrr0j7-493y06b0oq.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\lr5hmrr0j7-493y06b0oq.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7798,7 +7798,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\lr5hmrr0j7-493y06b0oq.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\lr5hmrr0j7-493y06b0oq.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7880,7 +7880,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -7935,7 +7935,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ivy2s9gwh5-iovd86k7lj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8017,7 +8017,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\higufxz8op-vr1egmr9el.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\higufxz8op-vr1egmr9el.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8072,7 +8072,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\higufxz8op-vr1egmr9el.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\higufxz8op-vr1egmr9el.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8154,7 +8154,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\s3tglgz8hr-kbrnm935zg.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\s3tglgz8hr-kbrnm935zg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8209,7 +8209,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.js.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\s3tglgz8hr-kbrnm935zg.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\s3tglgz8hr-kbrnm935zg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8291,7 +8291,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vw9sls9bhj-jj8uyg4cgr.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vw9sls9bhj-jj8uyg4cgr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8346,7 +8346,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vw9sls9bhj-jj8uyg4cgr.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\vw9sls9bhj-jj8uyg4cgr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8428,7 +8428,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ym8tkpcl2i-y7v9cxd14o.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ym8tkpcl2i-y7v9cxd14o.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8483,7 +8483,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.esm.min.js.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ym8tkpcl2i-y7v9cxd14o.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ym8tkpcl2i-y7v9cxd14o.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8565,7 +8565,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8620,7 +8620,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zzna4nrm5w-notf2xhcfb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8702,7 +8702,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8757,7 +8757,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.js.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\igscs4x0yk-h1s4sie4z3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8839,7 +8839,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zap00c0tb5-63fj8s7r0e.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zap00c0tb5-63fj8s7r0e.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -8894,7 +8894,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zap00c0tb5-63fj8s7r0e.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\zap00c0tb5-63fj8s7r0e.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8976,7 +8976,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9031,7 +9031,7 @@
     },
     {
       "Route": "Identity/lib/bootstrap/dist/js/bootstrap.min.js.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\pogzkicjpz-0j3bgjxly4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9150,7 +9150,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tpsq5dibur-0i3buxo5is.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tpsq5dibur-0i3buxo5is.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9205,7 +9205,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tpsq5dibur-0i3buxo5is.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\tpsq5dibur-0i3buxo5is.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9287,7 +9287,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t0qo7o574p-o1o13a6vjx.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t0qo7o574p-o1o13a6vjx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9342,7 +9342,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t0qo7o574p-o1o13a6vjx.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t0qo7o574p-o1o13a6vjx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9424,7 +9424,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.min.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\b9lhb08218-ttgo8qnofa.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\b9lhb08218-ttgo8qnofa.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9479,7 +9479,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.min.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\b9lhb08218-ttgo8qnofa.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\b9lhb08218-ttgo8qnofa.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9561,7 +9561,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.slim.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\a3ygkwa5zy-2z0ns9nrw6.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\a3ygkwa5zy-2z0ns9nrw6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9616,7 +9616,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.slim.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\a3ygkwa5zy-2z0ns9nrw6.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\a3ygkwa5zy-2z0ns9nrw6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9698,7 +9698,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.slim.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nezrqnk58p-muycvpuwrr.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nezrqnk58p-muycvpuwrr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9753,7 +9753,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.slim.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nezrqnk58p-muycvpuwrr.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\nezrqnk58p-muycvpuwrr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9835,7 +9835,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.slim.min.map",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\v0zgfp0y55-87fc7y1x7t.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\v0zgfp0y55-87fc7y1x7t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9890,7 +9890,7 @@
     },
     {
       "Route": "Identity/lib/jquery/dist/jquery.slim.min.map.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\v0zgfp0y55-87fc7y1x7t.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\v0zgfp0y55-87fc7y1x7t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9972,7 +9972,7 @@
     },
     {
       "Route": "Identity/lib/jquery/LICENSE.txt",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\yfc7ypekbg-mlv21k5csn.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\yfc7ypekbg-mlv21k5csn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10027,7 +10027,7 @@
     },
     {
       "Route": "Identity/lib/jquery/LICENSE.txt.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\yfc7ypekbg-mlv21k5csn.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\yfc7ypekbg-mlv21k5csn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10109,7 +10109,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ypthv7q62w-83jwlth58m.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ypthv7q62w-83jwlth58m.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10164,7 +10164,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/additional-methods.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ypthv7q62w-83jwlth58m.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ypthv7q62w-83jwlth58m.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10246,7 +10246,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t6e3b82hrf-mrlpezrjn3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t6e3b82hrf-mrlpezrjn3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10301,7 +10301,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/additional-methods.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t6e3b82hrf-mrlpezrjn3.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\t6e3b82hrf-mrlpezrjn3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10383,7 +10383,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\uocis9wxbx-lzl9nlhx6b.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\uocis9wxbx-lzl9nlhx6b.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10438,7 +10438,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/jquery.validate.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\uocis9wxbx-lzl9nlhx6b.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\uocis9wxbx-lzl9nlhx6b.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10520,7 +10520,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10575,7 +10575,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/dist/jquery.validate.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\2tikzqlmtu-ag7o75518u.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10657,7 +10657,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/LICENSE.md",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9muusbdg0a-x0q3zqp4vz.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9muusbdg0a-x0q3zqp4vz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10712,7 +10712,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation/LICENSE.md.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9muusbdg0a-x0q3zqp4vz.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\9muusbdg0a-x0q3zqp4vz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10794,7 +10794,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j3hwsq15kh-47otxtyo56.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j3hwsq15kh-47otxtyo56.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10849,7 +10849,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j3hwsq15kh-47otxtyo56.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\j3hwsq15kh-47otxtyo56.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10931,7 +10931,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\q3naettu8c-4v8eqarkd7.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\q3naettu8c-4v8eqarkd7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10986,7 +10986,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\q3naettu8c-4v8eqarkd7.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\q3naettu8c-4v8eqarkd7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11068,7 +11068,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ldxy2n3w6q-356vix0kms.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ldxy2n3w6q-356vix0kms.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -11123,7 +11123,7 @@
     },
     {
       "Route": "Identity/lib/jquery-validation-unobtrusive/LICENSE.txt.gz",
-      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ldxy2n3w6q-356vix0kms.gz",
+      "AssetFile": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\Debug\\net9.0\\compressed\\ldxy2n3w6q-356vix0kms.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

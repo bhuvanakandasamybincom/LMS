@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\LibraryManagement.csproj": {}
+    "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\LibraryManagement.csproj": {}
   },
   "projects": {
-    "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\LibraryManagement.csproj": {
+    "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\LibraryManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\LibraryManagement.csproj",
+        "projectUniqueName": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\LibraryManagement.csproj",
         "projectName": "LibraryManagement",
-        "projectPath": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\LibraryManagement.csproj",
+        "projectPath": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\LibraryManagement.csproj",
         "packagesPath": "C:\\Users\\Dinesh\\.nuget\\packages\\",
-        "outputPath": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\LibraryManagement\\obj\\",
+        "outputPath": "E:\\Bhuvana\\Bincom\\ProjectWork\\ContactSession\\Test\\LMS\\LibraryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[9.0.5, )"
             },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.5, )"
@@ -81,6 +85,14 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.5, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[3.2.2, )"
+            },
+            "Microsoft.Identity.Web.UI": {
+              "target": "Package",
+              "version": "[3.2.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

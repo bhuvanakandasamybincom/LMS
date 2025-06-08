@@ -166,6 +166,22 @@
   },
   {
     "ContainingType": "LibraryManagement.Controllers.BookController",
+    "Method": "GetBookdetails",
+    "RelativePath": "api/v1/Book/GetBookDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryManagement.Controllers.BookController",
     "Method": "GetBookByAuthor",
     "RelativePath": "api/v1/Book/GetBooksbyAuthor",
     "HttpMethod": "GET",
@@ -179,6 +195,26 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryManagement.Controllers.BookController",
+    "Method": "GetMostBorrowedBooks",
+    "RelativePath": "api/v1/Book/MostBorrowedBooks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[LibraryManagement.Model.Book, LibraryManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "LibraryManagement.Controllers.BookController",
